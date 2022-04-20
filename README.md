@@ -5,5 +5,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse fermentum n
 [Universidad de Costa Rica](https://www.ucr.ac.cr/)
 
 PATO
+
 ![](https://images.unsplash.com/photo-1555852095-64e7428df0fa?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=688&q=80)
+
 PATO
